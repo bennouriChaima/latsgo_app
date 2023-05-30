@@ -1,0 +1,44 @@
+{
+  "validator default error message": "الرجاء التحقق من البيانات المدخلة",
+  "app title": "تطبيق كارا للمسؤول",
+  "app description": "خدمة غسيل السيارات المتنقل",
+  "sign in": "تسجيل الدخول",
+  "sign in description": "أدخل معلوماتك لتسجيل الدخول لحسابك",
+  "phone number": "رقم الهاتف",
+  "phone number hint": "أدخل رقم هاتفك...",
+  "password": "كلمة السر",
+  "password hint": "أدخل كلمة السر الخاصة بك...",
+  "admin": "مسؤول",
+  "driver": "سائق",
+
+  "orders in pending": "طلب في الانتظار",
+  "orders canceled": "طلب تم إلغاءه",
+  "orders on the way": "طلب في الطريق",
+  "orders completed": "طلب تم إتمامه",
+  "orders": "الطلبات",
+  "all": "الكل",
+  "pending": "في الانتظار",
+  "finished": "مكتملة",
+  "canceled": "ملغاة",
+  "on the way": "في الطريق",
+  "order number": "الطلب رقم",
+  "client name": "اسم العميل",
+  "booking date": "موعد الحجز",
+  "washing type": "نوع الغسيل",
+  "car": "السيارة",
+  "total": "الإجمالي",
+  "plate": "رقم اللوحة",
+  "currency": "ريال",
+  "order driver": "منفذ الطلب",
+  "not specified yet": "غير محدد بعد",
+  "welcome back": "غير محدد بعد"
+
+
+
+
+
+
+
+
+
+}
